@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# eqelatasklist
+#
+
+projectname: eqelatasklist
+vendorid: com.justinestrellado
+mainmodule: com.justinestrellado.eqelatasklist
